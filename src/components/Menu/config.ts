@@ -21,7 +21,7 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
       },
       {
         label: t('LP Migration'),
-        href: 'https://v1exchange.pancakeswap.finance/#/migrate',
+        href: 'https://v1exchange.swap.safesale.finance/#/migrate',
       },
     ],
   },
@@ -89,7 +89,7 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
     items: [
       {
         label: t('Contact'),
-        href: 'https://docs.pancakeswap.finance/contact-us',
+        href: 'https://docs.safesale.finance/contact-us',
       },
       {
         label: t('Voting'),
@@ -101,15 +101,15 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
       },
       {
         label: t('Docs'),
-        href: 'https://docs.pancakeswap.finance',
+        href: 'https://docs.safesale.finance',
       },
       {
         label: t('Blog'),
-        href: 'https://pancakeswap.medium.com',
+        href: 'https://safesale.medium.com',
       },
       {
         label: t('Merch'),
-        href: 'https://pancakeswap.creator-spring.com/',
+        href: 'https://safesale.creator-spring.com/',
       },
     ],
   },
